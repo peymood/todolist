@@ -1,0 +1,14 @@
+$font-stack: Helvetica, sans-serif;
+
+.form{
+    display: flex;
+    justify-content: center;
+
+        Input{
+            font: 100% $font-stack;
+            font-size: 1.2em;
+            margin-top: 20px;
+            height: 60px;
+        }
+    
+}

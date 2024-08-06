@@ -1,0 +1,19 @@
+:root{
+  background-color: darkslategray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  font-family:Georgia, 'Times New Roman', Times, serif ; 
+  color: gold;
+  justify-content: center;
+  display: flex;
+}
+
+
+p{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 1.3em;
+  color: rgb(212, 210, 169);
+}
